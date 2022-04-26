@@ -1,1 +1,3 @@
-# boss This tool cpyrite warning.....
+. https://github.com/AbbasAdrees/boss.git
+. cd boss
+. python2 boss.py
